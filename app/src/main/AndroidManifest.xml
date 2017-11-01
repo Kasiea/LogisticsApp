@@ -17,7 +17,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.LoginActivity" />
-        <activity android:name=".ui.SearchActivity"></activity>
+        <activity android:name=".ui.SearchActivity" />
+        <activity android:name=".ui.AuthenticationDriverActivity" />
+        <activity android:name=".ui.AuthenticationCarActivity" />
+        <activity android:name=".ui.AuthenticationSureActivity" />
+        <activity android:name=".ui.RegisteredActivity"></activity>
     </application>
 
 </manifest>
